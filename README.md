@@ -8,12 +8,12 @@
 
 We are composed of:
 
-- Tomas Felipe Panqueva Manrique
-- Juan Andres Rodriguez Peñuela
 - Marianella Polo Peña
-- Andres Serrato Camero
-- Valentina Rodriguez Tejedor
-- Juan Francisco Teran Roman
+- Valentina Rodríguez Tejedor
+- Tomas Felipe Panqueva Manrique
+- Juan Andrés Rodríguez Peñuela
+- Andrés Serrato Camero
+- Juan Francisco Teran Román
 
 We are students from **Universidad Escuela Colombiana de Ingeniería Julio Garavito**.
 
